@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    background: #775480;
+    text-align: center;
+  }
+  h1{
+    color: aliceblue;
+    font-size: 100px;
+  }
+  #presetTask, #addButton {
+    font-size: 50px;
+    background-color: aquamarine;
+  }
+  #plusP{
+    font-size: 50px;
+    margin: 0 200px ;
+    padding: 0 200px;
+    
+    display: inline-block;
+    background-color: aqua;
+  }
